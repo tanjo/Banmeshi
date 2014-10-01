@@ -1,0 +1,11 @@
+## .gitignore ##
+##
+
+# ignore all
+*
+*/
+# allow any
+!*.crx
+!*.md
+!Banmeshi/
+!.gitignore
