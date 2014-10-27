@@ -3,12 +3,18 @@
 
   "name" : "Banmeshi",
   "description" : "晩飯をランダムに表示",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
 
   "permissions" : [
     "http://cookpad.com/",
     "tabs"
   ],
+
+  "icons" : {
+    "128" : "128.png",
+    "48" : "48.png",
+    "16" : "16.png"
+  },
 
   "background" : {
     "scripts" : ["background.js"]
