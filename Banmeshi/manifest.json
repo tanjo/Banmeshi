@@ -3,7 +3,7 @@
 
   "name" : "Banmeshi",
   "description" : "晩飯をランダムに表示",
-  "version" : "1.0.2",
+  "version" : "1.0.3",
 
   "permissions" : [
     "http://cookpad.com/",
