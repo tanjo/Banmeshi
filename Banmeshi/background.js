@@ -1,5 +1,5 @@
 function create() {
-  var url='http://cookpad.com/recipe/' + Math.floor( Math.random() * 2000000 );
+  var url='http://cookpad.com/recipe/' + Math.floor( Math.random() * 2140000 );
   return url;
 }
 

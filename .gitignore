@@ -7,5 +7,5 @@
 # allow any
 !*.crx
 !*.md
-!Banmeshi
+!Banmeshi/
 !.gitignore
