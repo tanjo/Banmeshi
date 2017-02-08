@@ -9,3 +9,7 @@
 !*.md
 !Banmeshi/
 !.gitignore
+!bin/
+!src/
+!package.json
+!gulpfile.coffee
